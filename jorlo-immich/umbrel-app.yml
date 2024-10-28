@@ -4,7 +4,7 @@ name: Immich
 tagline: High-performance photo and video backup solution
 icon: https://getumbrel.github.io/umbrel-apps-gallery/immich/icon.svg
 category: Files & Productivity
-version: "1.118.2"
+version: "v1.118.2"
 port: 2283
 description: >-
   An open-source and high-performance self-hosted backup solution for the videos and photos on your mobile device
