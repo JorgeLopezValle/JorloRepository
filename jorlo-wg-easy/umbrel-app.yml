@@ -4,7 +4,7 @@ name: wg-easy
 tagline: Run your own free and unlimited WireGuard VPN and block ads on your entire network
 icon: https://getumbrel.github.io/umbrel-apps-gallery/wireguard/icon.svg
 category: Networking
-version: "1.0.0"
+version: "14"
 port: 51821
 description: >-
   WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.
