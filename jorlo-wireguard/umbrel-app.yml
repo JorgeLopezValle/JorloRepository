@@ -2,6 +2,7 @@ manifestVersion: 1
 id: jorlo-wireguard
 name: WireGuard
 tagline: Run your own free and unlimited WireGuard VPN
+icon: https://getumbrel.github.io/umbrel-apps-gallery/wireguard/icon.svg
 category: networking
 version: "14"
 port: 51821
@@ -48,7 +49,7 @@ submission: https://github.com/getumbrel/umbrel-apps/pull/1084
 repo: https://github.com/wg-easy/wg-easy
 support: https://github.com/wg-easy/wg-easy/discussions
 gallery:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
+  - https://apps.umbrel.com/_next/image?url=https://getumbrel.github.io/umbrel-apps-gallery/wireguard/1.jpg&w=3840&q=75
+  - https://apps.umbrel.com/_next/image?url=https://getumbrel.github.io/umbrel-apps-gallery/wireguard/2.jpg&w=3840&q=75
+  - https://apps.umbrel.com/_next/image?url=https://getumbrel.github.io/umbrel-apps-gallery/wireguard/3.jpg&w=3840&q=75
 path: ""
